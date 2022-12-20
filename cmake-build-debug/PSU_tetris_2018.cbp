@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="PSU_tetris_2018"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/maxencecarpentier/Documents/delivery/psu/PSU_tetris_2018/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/maxencecarpentier/Documents/delivery/psu/PSU_tetris_2018/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/maxencecarpentier/Documents/delivery/psu/PSU_tetris_2018/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/maxencecarpentier/Documents/delivery/psu/PSU_tetris_2018/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/maxencecarpentier/Documents/delivery/psu/PSU_tetris_2018/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/maxencecarpentier/Documents/delivery/psu/PSU_tetris_2018/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/maxencecarpentier/Documents/delivery/psu/PSU_tetris_2018/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/maxencecarpentier/Documents/delivery/psu/PSU_tetris_2018/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/maxencecarpentier/Documents/delivery/psu/PSU_tetris_2018/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/maxencecarpentier/Documents/delivery/psu/PSU_tetris_2018/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/maxencecarpentier/Documents/delivery/psu/PSU_tetris_2018/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/maxencecarpentier/Documents/delivery/psu/PSU_tetris_2018/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/maxencecarpentier/Documents/delivery/psu/PSU_tetris_2018/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/maxencecarpentier/Documents/delivery/psu/PSU_tetris_2018/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/maxencecarpentier/Documents/delivery/psu/PSU_tetris_2018/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="PSU_tetris_2018">
+				<Option output="/Users/maxencecarpentier/Documents/delivery/psu/PSU_tetris_2018/cmake-build-debug/PSU_tetris_2018" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/maxencecarpentier/Documents/delivery/psu/PSU_tetris_2018/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/maxencecarpentier/Documents/delivery/psu/PSU_tetris_2018/include"/>
+					<Add directory="/Users/maxencecarpentier/Documents/delivery/psu/PSU_tetris_2018/lib/my"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/maxencecarpentier/Documents/delivery/psu/PSU_tetris_2018/cmake-build-debug/Makefile&quot;  VERBOSE=1 PSU_tetris_2018"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/maxencecarpentier/Documents/delivery/psu/PSU_tetris_2018/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/maxencecarpentier/Documents/delivery/psu/PSU_tetris_2018/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/maxencecarpentier/Documents/delivery/psu/PSU_tetris_2018/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="PSU_tetris_2018/fast">
+				<Option output="/Users/maxencecarpentier/Documents/delivery/psu/PSU_tetris_2018/cmake-build-debug/PSU_tetris_2018" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/maxencecarpentier/Documents/delivery/psu/PSU_tetris_2018/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/maxencecarpentier/Documents/delivery/psu/PSU_tetris_2018/include"/>
+					<Add directory="/Users/maxencecarpentier/Documents/delivery/psu/PSU_tetris_2018/lib/my"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/maxencecarpentier/Documents/delivery/psu/PSU_tetris_2018/cmake-build-debug/Makefile&quot;  VERBOSE=1 PSU_tetris_2018/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/maxencecarpentier/Documents/delivery/psu/PSU_tetris_2018/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/maxencecarpentier/Documents/delivery/psu/PSU_tetris_2018/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/maxencecarpentier/Documents/delivery/psu/PSU_tetris_2018/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/maxencecarpentier/Documents/delivery/psu/PSU_tetris_2018/include/game.h">
+			<Option target="PSU_tetris_2018"/>
+		</Unit>
+		<Unit filename="/Users/maxencecarpentier/Documents/delivery/psu/PSU_tetris_2018/include/my.h">
+			<Option target="PSU_tetris_2018"/>
+		</Unit>
+		<Unit filename="/Users/maxencecarpentier/Documents/delivery/psu/PSU_tetris_2018/include/parser.h">
+			<Option target="PSU_tetris_2018"/>
+		</Unit>
+		<Unit filename="/Users/maxencecarpentier/Documents/delivery/psu/PSU_tetris_2018/include/tetris.h">
+			<Option target="PSU_tetris_2018"/>
+		</Unit>
+		<Unit filename="/Users/maxencecarpentier/Documents/delivery/psu/PSU_tetris_2018/lib/my/convert_base.c">
+			<Option target="PSU_tetris_2018"/>
+		</Unit>
+		<Unit filename="/Users/maxencecarpentier/Documents/delivery/psu/PSU_tetris_2018/lib/my/get_next_line.c">
+			<Option target="PSU_tetris_2018"/>
+		</Unit>
+		<Unit filename="/Users/maxencecarpentier/Documents/delivery/psu/PSU_tetris_2018/lib/my/get_next_line.h">
+			<Option target="PSU_tetris_2018"/>
+		</Unit>
+		<Unit filename="/Users/maxencecarpentier/Documents/delivery/psu/PSU_tetris_2018/lib/my/get_next_line_2.c">
+			<Option target="PSU_tetris_2018"/>
+		</Unit>
+		<Unit filename="/Users/maxencecarpentier/Documents/delivery/psu/PSU_tetris_2018/lib/my/my.h">
+			<Option target="PSU_tetris_2018"/>
+		</Unit>
+		<Unit filename="/Users/maxencecarpentier/Documents/delivery/psu/PSU_tetris_2018/lib/my/my_char_isfactor.c">
+			<Option target="PSU_tetris_2018"/>
+		</Unit>
+		<Unit filename="/Users/maxencecarpentier/Documents/delivery/psu/PSU_tetris_2018/lib/my/my_fact_rec.c">
+			<Option target="PSU_tetris_2018"/>
+		</Unit>
+		<Unit filename="/Users/maxencecarpentier/Documents/delivery/psu/PSU_tetris_2018/lib/my/my_find_prime_sup.c">
+			<Option target="PSU_tetris_2018"/>
+		</Unit>
+		<Unit filename="/Users/maxencecarpentier/Documents/delivery/psu/PSU_tetris_2018/lib/my/my_getnbr.c">
+			<Option target="PSU_tetris_2018"/>
+		</Unit>
+		<Unit filename="/Users/maxencecarpentier/Documents/delivery/psu/PSU_tetris_2018/lib/my/my_getnbr_base.c">
+			<Option target="PSU_tetris_2018"/>
+		</Unit>
+		<Unit filename="/Users/maxencecarpentier/Documents/delivery/psu/PSU_tetris_2018/lib/my/my_int_to_str.c">
+			<Option target="PSU_tetris_2018"/>
+		</Unit>
+		<Unit filename="/Users/maxencecarpentier/Documents/delivery/psu/PSU_tetris_2018/lib/my/my_is_prime.c">
+			<Option target="PSU_tetris_2018"/>
+		</Unit>
+		<Unit filename="/Users/maxencecarpentier/Documents/delivery/psu/PSU_tetris_2018/lib/my/my_isneg.c">
+			<Option target="PSU_tetris_2018"/>
+		</Unit>
+		<Unit filename="/Users/maxencecarpentier/Documents/delivery/psu/PSU_tetris_2018/lib/my/my_memset.c">
+			<Option target="PSU_tetris_2018"/>
+		</Unit>
+		<Unit filename="/Users/maxencecarpentier/Documents/delivery/psu/PSU_tetris_2018/lib/my/my_memset_str.c">
+			<Option target="PSU_tetris_2018"/>
+		</Unit>
+		<Unit filename="/Users/maxencecarpentier/Documents/delivery/psu/PSU_tetris_2018/lib/my/my_power_rec.c">
+			<Option target="PSU_tetris_2018"/>
+		</Unit>
+		<Unit filename="/Users/maxencecarpentier/Documents/delivery/psu/PSU_tetris_2018/lib/my/my_put_nbr.c">
+			<Option target="PSU_tetris_2018"/>
+		</Unit>
+		<Unit filename="/Users/maxencecarpentier/Documents/delivery/psu/PSU_tetris_2018/lib/my/my_putchar.c">
+			<Option target="PSU_tetris_2018"/>
+		</Unit>
+		<Unit filename="/Users/maxencecarpentier/Documents/delivery/psu/PSU_tetris_2018/lib/my/my_puterror.c">
+			<Option target="PSU_tetris_2018"/>
+		</Unit>
+		<Unit filename="/Users/maxencecarpentier/Documents/delivery/psu/PSU_tetris_2018/lib/my/my_putnbr_base.c">
+			<Option target="PSU_tetris_2018"/>
+		</Unit>
+		<Unit filename="/Users/maxencecarpentier/Documents/delivery/psu/PSU_tetris_2018/lib/my/my_putnstr.c">
+			<Option target="PSU_tetris_2018"/>
+		</Unit>
+		<Unit filename="/Users/maxencecarpentier/Documents/delivery/psu/PSU_tetris_2018/lib/my/my_putstr.c">
+			<Option target="PSU_tetris_2018"/>
+		</Unit>
+		<Unit filename="/Users/maxencecarpentier/Documents/delivery/psu/PSU_tetris_2018/lib/my/my_revstr.c">
+			<Option target="PSU_tetris_2018"/>
+		</Unit>
+		<Unit filename="/Users/maxencecarpentier/Documents/delivery/psu/PSU_tetris_2018/lib/my/my_show_wordtab.c">
+			<Option target="PSU_tetris_2018"/>
+		</Unit>
+		<Unit filename="/Users/maxencecarpentier/Documents/delivery/psu/PSU_tetris_2018/lib/my/my_showstr.c">
+			<Option target="PSU_tetris_2018"/>
+		</Unit>
+		<Unit filename="/Users/maxencecarpentier/Documents/delivery/psu/PSU_tetris_2018/lib/my/my_sort_int_tab.c">
+			<Option target="PSU_tetris_2018"/>
+		</Unit>
+		<Unit filename="/Users/maxencecarpentier/Documents/delivery/psu/PSU_tetris_2018/lib/my/my_sort_str_tab.c">
+			<Option target="PSU_tetris_2018"/>
+		</Unit>
+		<Unit filename="/Users/maxencecarpentier/Documents/delivery/psu/PSU_tetris_2018/lib/my/my_square_root.c">
+			<Option target="PSU_tetris_2018"/>
+		</Unit>
+		<Unit filename="/Users/maxencecarpentier/Documents/delivery/psu/PSU_tetris_2018/lib/my/my_str_contains.c">
+			<Option target="PSU_tetris_2018"/>
+		</Unit>
+		<Unit filename="/Users/maxencecarpentier/Documents/delivery/psu/PSU_tetris_2018/lib/my/my_str_isalpha.c">
+			<Option target="PSU_tetris_2018"/>
+		</Unit>
+		<Unit filename="/Users/maxencecarpentier/Documents/delivery/psu/PSU_tetris_2018/lib/my/my_str_islower.c">
+			<Option target="PSU_tetris_2018"/>
+		</Unit>
+		<Unit filename="/Users/maxencecarpentier/Documents/delivery/psu/PSU_tetris_2018/lib/my/my_str_isnum.c">
+			<Option target="PSU_tetris_2018"/>
+		</Unit>
+		<Unit filename="/Users/maxencecarpentier/Documents/delivery/psu/PSU_tetris_2018/lib/my/my_str_isprintable.c">
+			<Option target="PSU_tetris_2018"/>
+		</Unit>
+		<Unit filename="/Users/maxencecarpentier/Documents/delivery/psu/PSU_tetris_2018/lib/my/my_str_isupper.c">
+			<Option target="PSU_tetris_2018"/>
+		</Unit>
+		<Unit filename="/Users/maxencecarpentier/Documents/delivery/psu/PSU_tetris_2018/lib/my/my_str_to_wordtab.c">
+			<Option target="PSU_tetris_2018"/>
+		</Unit>
+		<Unit filename="/Users/maxencecarpentier/Documents/delivery/psu/PSU_tetris_2018/lib/my/my_strcapitalize.c">
+			<Option target="PSU_tetris_2018"/>
+		</Unit>
+		<Unit filename="/Users/maxencecarpentier/Documents/delivery/psu/PSU_tetris_2018/lib/my/my_strcat.c">
+			<Option target="PSU_tetris_2018"/>
+		</Unit>
+		<Unit filename="/Users/maxencecarpentier/Documents/delivery/psu/PSU_tetris_2018/lib/my/my_strcmp.c">
+			<Option target="PSU_tetris_2018"/>
+		</Unit>
+		<Unit filename="/Users/maxencecarpentier/Documents/delivery/psu/PSU_tetris_2018/lib/my/my_strcpy.c">
+			<Option target="PSU_tetris_2018"/>
+		</Unit>
+		<Unit filename="/Users/maxencecarpentier/Documents/delivery/psu/PSU_tetris_2018/lib/my/my_strdup.c">
+			<Option target="PSU_tetris_2018"/>
+		</Unit>
+		<Unit filename="/Users/maxencecarpentier/Documents/delivery/psu/PSU_tetris_2018/lib/my/my_stricmp.c">
+			<Option target="PSU_tetris_2018"/>
+		</Unit>
+		<Unit filename="/Users/maxencecarpentier/Documents/delivery/psu/PSU_tetris_2018/lib/my/my_strlen.c">
+			<Option target="PSU_tetris_2018"/>
+		</Unit>
+		<Unit filename="/Users/maxencecarpentier/Documents/delivery/psu/PSU_tetris_2018/lib/my/my_strlowcase.c">
+			<Option target="PSU_tetris_2018"/>
+		</Unit>
+		<Unit filename="/Users/maxencecarpentier/Documents/delivery/psu/PSU_tetris_2018/lib/my/my_strmcat.c">
+			<Option target="PSU_tetris_2018"/>
+		</Unit>
+		<Unit filename="/Users/maxencecarpentier/Documents/delivery/psu/PSU_tetris_2018/lib/my/my_strncat.c">
+			<Option target="PSU_tetris_2018"/>
+		</Unit>
+		<Unit filename="/Users/maxencecarpentier/Documents/delivery/psu/PSU_tetris_2018/lib/my/my_strncmp.c">
+			<Option target="PSU_tetris_2018"/>
+		</Unit>
+		<Unit filename="/Users/maxencecarpentier/Documents/delivery/psu/PSU_tetris_2018/lib/my/my_strncpy.c">
+			<Option target="PSU_tetris_2018"/>
+		</Unit>
+		<Unit filename="/Users/maxencecarpentier/Documents/delivery/psu/PSU_tetris_2018/lib/my/my_strsplit.c">
+			<Option target="PSU_tetris_2018"/>
+		</Unit>
+		<Unit filename="/Users/maxencecarpentier/Documents/delivery/psu/PSU_tetris_2018/lib/my/my_strstr.c">
+			<Option target="PSU_tetris_2018"/>
+		</Unit>
+		<Unit filename="/Users/maxencecarpentier/Documents/delivery/psu/PSU_tetris_2018/lib/my/my_strtablen.c">
+			<Option target="PSU_tetris_2018"/>
+		</Unit>
+		<Unit filename="/Users/maxencecarpentier/Documents/delivery/psu/PSU_tetris_2018/lib/my/my_strupcase.c">
+			<Option target="PSU_tetris_2018"/>
+		</Unit>
+		<Unit filename="/Users/maxencecarpentier/Documents/delivery/psu/PSU_tetris_2018/lib/my/my_swap.c">
+			<Option target="PSU_tetris_2018"/>
+		</Unit>
+		<Unit filename="/Users/maxencecarpentier/Documents/delivery/psu/PSU_tetris_2018/src/action_game.c">
+			<Option target="PSU_tetris_2018"/>
+		</Unit>
+		<Unit filename="/Users/maxencecarpentier/Documents/delivery/psu/PSU_tetris_2018/src/check.c">
+			<Option target="PSU_tetris_2018"/>
+		</Unit>
+		<Unit filename="/Users/maxencecarpentier/Documents/delivery/psu/PSU_tetris_2018/src/check_tetrimino.c">
+			<Option target="PSU_tetris_2018"/>
+		</Unit>
+		<Unit filename="/Users/maxencecarpentier/Documents/delivery/psu/PSU_tetris_2018/src/debug.c">
+			<Option target="PSU_tetris_2018"/>
+		</Unit>
+		<Unit filename="/Users/maxencecarpentier/Documents/delivery/psu/PSU_tetris_2018/src/display.c">
+			<Option target="PSU_tetris_2018"/>
+		</Unit>
+		<Unit filename="/Users/maxencecarpentier/Documents/delivery/psu/PSU_tetris_2018/src/display_utils.c">
+			<Option target="PSU_tetris_2018"/>
+		</Unit>
+		<Unit filename="/Users/maxencecarpentier/Documents/delivery/psu/PSU_tetris_2018/src/drawer.c">
+			<Option target="PSU_tetris_2018"/>
+		</Unit>
+		<Unit filename="/Users/maxencecarpentier/Documents/delivery/psu/PSU_tetris_2018/src/game.c">
+			<Option target="PSU_tetris_2018"/>
+		</Unit>
+		<Unit filename="/Users/maxencecarpentier/Documents/delivery/psu/PSU_tetris_2018/src/game_utils.c">
+			<Option target="PSU_tetris_2018"/>
+		</Unit>
+		<Unit filename="/Users/maxencecarpentier/Documents/delivery/psu/PSU_tetris_2018/src/mini_utils.c">
+			<Option target="PSU_tetris_2018"/>
+		</Unit>
+		<Unit filename="/Users/maxencecarpentier/Documents/delivery/psu/PSU_tetris_2018/src/parser.c">
+			<Option target="PSU_tetris_2018"/>
+		</Unit>
+		<Unit filename="/Users/maxencecarpentier/Documents/delivery/psu/PSU_tetris_2018/src/parser_setter.c">
+			<Option target="PSU_tetris_2018"/>
+		</Unit>
+		<Unit filename="/Users/maxencecarpentier/Documents/delivery/psu/PSU_tetris_2018/src/parser_utils.c">
+			<Option target="PSU_tetris_2018"/>
+		</Unit>
+		<Unit filename="/Users/maxencecarpentier/Documents/delivery/psu/PSU_tetris_2018/src/pause.c">
+			<Option target="PSU_tetris_2018"/>
+		</Unit>
+		<Unit filename="/Users/maxencecarpentier/Documents/delivery/psu/PSU_tetris_2018/src/remove_line.c">
+			<Option target="PSU_tetris_2018"/>
+		</Unit>
+		<Unit filename="/Users/maxencecarpentier/Documents/delivery/psu/PSU_tetris_2018/src/score.c">
+			<Option target="PSU_tetris_2018"/>
+		</Unit>
+		<Unit filename="/Users/maxencecarpentier/Documents/delivery/psu/PSU_tetris_2018/src/score_lvl.c">
+			<Option target="PSU_tetris_2018"/>
+		</Unit>
+		<Unit filename="/Users/maxencecarpentier/Documents/delivery/psu/PSU_tetris_2018/src/set_rotated.c">
+			<Option target="PSU_tetris_2018"/>
+		</Unit>
+		<Unit filename="/Users/maxencecarpentier/Documents/delivery/psu/PSU_tetris_2018/src/setupterm.c">
+			<Option target="PSU_tetris_2018"/>
+		</Unit>
+		<Unit filename="/Users/maxencecarpentier/Documents/delivery/psu/PSU_tetris_2018/src/tetrimino.c">
+			<Option target="PSU_tetris_2018"/>
+		</Unit>
+		<Unit filename="/Users/maxencecarpentier/Documents/delivery/psu/PSU_tetris_2018/src/tetris.c">
+			<Option target="PSU_tetris_2018"/>
+		</Unit>
+		<Unit filename="/Users/maxencecarpentier/Documents/delivery/psu/PSU_tetris_2018/src/title.c">
+			<Option target="PSU_tetris_2018"/>
+		</Unit>
+		<Unit filename="/Users/maxencecarpentier/Documents/delivery/psu/PSU_tetris_2018/src/tools.c">
+			<Option target="PSU_tetris_2018"/>
+		</Unit>
+		<Unit filename="/Users/maxencecarpentier/Documents/delivery/psu/PSU_tetris_2018/src/utils.c">
+			<Option target="PSU_tetris_2018"/>
+		</Unit>
+		<Unit filename="/Users/maxencecarpentier/Documents/delivery/psu/PSU_tetris_2018/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

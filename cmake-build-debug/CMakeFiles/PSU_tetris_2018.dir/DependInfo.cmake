@@ -1,0 +1,95 @@
+# The set of languages for which implicit dependencies are needed:
+set(CMAKE_DEPENDS_LANGUAGES
+  "C"
+  )
+# The set of files for implicit dependencies of each language:
+set(CMAKE_DEPENDS_CHECK_C
+  "/Users/maxencecarpentier/Documents/delivery/psu/PSU_tetris_2018/lib/my/convert_base.c" "/Users/maxencecarpentier/Documents/delivery/psu/PSU_tetris_2018/cmake-build-debug/CMakeFiles/PSU_tetris_2018.dir/lib/my/convert_base.c.o"
+  "/Users/maxencecarpentier/Documents/delivery/psu/PSU_tetris_2018/lib/my/get_next_line.c" "/Users/maxencecarpentier/Documents/delivery/psu/PSU_tetris_2018/cmake-build-debug/CMakeFiles/PSU_tetris_2018.dir/lib/my/get_next_line.c.o"
+  "/Users/maxencecarpentier/Documents/delivery/psu/PSU_tetris_2018/lib/my/get_next_line_2.c" "/Users/maxencecarpentier/Documents/delivery/psu/PSU_tetris_2018/cmake-build-debug/CMakeFiles/PSU_tetris_2018.dir/lib/my/get_next_line_2.c.o"
+  "/Users/maxencecarpentier/Documents/delivery/psu/PSU_tetris_2018/lib/my/my_char_isfactor.c" "/Users/maxencecarpentier/Documents/delivery/psu/PSU_tetris_2018/cmake-build-debug/CMakeFiles/PSU_tetris_2018.dir/lib/my/my_char_isfactor.c.o"
+  "/Users/maxencecarpentier/Documents/delivery/psu/PSU_tetris_2018/lib/my/my_fact_rec.c" "/Users/maxencecarpentier/Documents/delivery/psu/PSU_tetris_2018/cmake-build-debug/CMakeFiles/PSU_tetris_2018.dir/lib/my/my_fact_rec.c.o"
+  "/Users/maxencecarpentier/Documents/delivery/psu/PSU_tetris_2018/lib/my/my_find_prime_sup.c" "/Users/maxencecarpentier/Documents/delivery/psu/PSU_tetris_2018/cmake-build-debug/CMakeFiles/PSU_tetris_2018.dir/lib/my/my_find_prime_sup.c.o"
+  "/Users/maxencecarpentier/Documents/delivery/psu/PSU_tetris_2018/lib/my/my_getnbr.c" "/Users/maxencecarpentier/Documents/delivery/psu/PSU_tetris_2018/cmake-build-debug/CMakeFiles/PSU_tetris_2018.dir/lib/my/my_getnbr.c.o"
+  "/Users/maxencecarpentier/Documents/delivery/psu/PSU_tetris_2018/lib/my/my_getnbr_base.c" "/Users/maxencecarpentier/Documents/delivery/psu/PSU_tetris_2018/cmake-build-debug/CMakeFiles/PSU_tetris_2018.dir/lib/my/my_getnbr_base.c.o"
+  "/Users/maxencecarpentier/Documents/delivery/psu/PSU_tetris_2018/lib/my/my_int_to_str.c" "/Users/maxencecarpentier/Documents/delivery/psu/PSU_tetris_2018/cmake-build-debug/CMakeFiles/PSU_tetris_2018.dir/lib/my/my_int_to_str.c.o"
+  "/Users/maxencecarpentier/Documents/delivery/psu/PSU_tetris_2018/lib/my/my_is_prime.c" "/Users/maxencecarpentier/Documents/delivery/psu/PSU_tetris_2018/cmake-build-debug/CMakeFiles/PSU_tetris_2018.dir/lib/my/my_is_prime.c.o"
+  "/Users/maxencecarpentier/Documents/delivery/psu/PSU_tetris_2018/lib/my/my_isneg.c" "/Users/maxencecarpentier/Documents/delivery/psu/PSU_tetris_2018/cmake-build-debug/CMakeFiles/PSU_tetris_2018.dir/lib/my/my_isneg.c.o"
+  "/Users/maxencecarpentier/Documents/delivery/psu/PSU_tetris_2018/lib/my/my_memset.c" "/Users/maxencecarpentier/Documents/delivery/psu/PSU_tetris_2018/cmake-build-debug/CMakeFiles/PSU_tetris_2018.dir/lib/my/my_memset.c.o"
+  "/Users/maxencecarpentier/Documents/delivery/psu/PSU_tetris_2018/lib/my/my_memset_str.c" "/Users/maxencecarpentier/Documents/delivery/psu/PSU_tetris_2018/cmake-build-debug/CMakeFiles/PSU_tetris_2018.dir/lib/my/my_memset_str.c.o"
+  "/Users/maxencecarpentier/Documents/delivery/psu/PSU_tetris_2018/lib/my/my_power_rec.c" "/Users/maxencecarpentier/Documents/delivery/psu/PSU_tetris_2018/cmake-build-debug/CMakeFiles/PSU_tetris_2018.dir/lib/my/my_power_rec.c.o"
+  "/Users/maxencecarpentier/Documents/delivery/psu/PSU_tetris_2018/lib/my/my_put_nbr.c" "/Users/maxencecarpentier/Documents/delivery/psu/PSU_tetris_2018/cmake-build-debug/CMakeFiles/PSU_tetris_2018.dir/lib/my/my_put_nbr.c.o"
+  "/Users/maxencecarpentier/Documents/delivery/psu/PSU_tetris_2018/lib/my/my_putchar.c" "/Users/maxencecarpentier/Documents/delivery/psu/PSU_tetris_2018/cmake-build-debug/CMakeFiles/PSU_tetris_2018.dir/lib/my/my_putchar.c.o"
+  "/Users/maxencecarpentier/Documents/delivery/psu/PSU_tetris_2018/lib/my/my_puterror.c" "/Users/maxencecarpentier/Documents/delivery/psu/PSU_tetris_2018/cmake-build-debug/CMakeFiles/PSU_tetris_2018.dir/lib/my/my_puterror.c.o"
+  "/Users/maxencecarpentier/Documents/delivery/psu/PSU_tetris_2018/lib/my/my_putnbr_base.c" "/Users/maxencecarpentier/Documents/delivery/psu/PSU_tetris_2018/cmake-build-debug/CMakeFiles/PSU_tetris_2018.dir/lib/my/my_putnbr_base.c.o"
+  "/Users/maxencecarpentier/Documents/delivery/psu/PSU_tetris_2018/lib/my/my_putnstr.c" "/Users/maxencecarpentier/Documents/delivery/psu/PSU_tetris_2018/cmake-build-debug/CMakeFiles/PSU_tetris_2018.dir/lib/my/my_putnstr.c.o"
+  "/Users/maxencecarpentier/Documents/delivery/psu/PSU_tetris_2018/lib/my/my_putstr.c" "/Users/maxencecarpentier/Documents/delivery/psu/PSU_tetris_2018/cmake-build-debug/CMakeFiles/PSU_tetris_2018.dir/lib/my/my_putstr.c.o"
+  "/Users/maxencecarpentier/Documents/delivery/psu/PSU_tetris_2018/lib/my/my_revstr.c" "/Users/maxencecarpentier/Documents/delivery/psu/PSU_tetris_2018/cmake-build-debug/CMakeFiles/PSU_tetris_2018.dir/lib/my/my_revstr.c.o"
+  "/Users/maxencecarpentier/Documents/delivery/psu/PSU_tetris_2018/lib/my/my_show_wordtab.c" "/Users/maxencecarpentier/Documents/delivery/psu/PSU_tetris_2018/cmake-build-debug/CMakeFiles/PSU_tetris_2018.dir/lib/my/my_show_wordtab.c.o"
+  "/Users/maxencecarpentier/Documents/delivery/psu/PSU_tetris_2018/lib/my/my_showstr.c" "/Users/maxencecarpentier/Documents/delivery/psu/PSU_tetris_2018/cmake-build-debug/CMakeFiles/PSU_tetris_2018.dir/lib/my/my_showstr.c.o"
+  "/Users/maxencecarpentier/Documents/delivery/psu/PSU_tetris_2018/lib/my/my_sort_int_tab.c" "/Users/maxencecarpentier/Documents/delivery/psu/PSU_tetris_2018/cmake-build-debug/CMakeFiles/PSU_tetris_2018.dir/lib/my/my_sort_int_tab.c.o"
+  "/Users/maxencecarpentier/Documents/delivery/psu/PSU_tetris_2018/lib/my/my_sort_str_tab.c" "/Users/maxencecarpentier/Documents/delivery/psu/PSU_tetris_2018/cmake-build-debug/CMakeFiles/PSU_tetris_2018.dir/lib/my/my_sort_str_tab.c.o"
+  "/Users/maxencecarpentier/Documents/delivery/psu/PSU_tetris_2018/lib/my/my_square_root.c" "/Users/maxencecarpentier/Documents/delivery/psu/PSU_tetris_2018/cmake-build-debug/CMakeFiles/PSU_tetris_2018.dir/lib/my/my_square_root.c.o"
+  "/Users/maxencecarpentier/Documents/delivery/psu/PSU_tetris_2018/lib/my/my_str_contains.c" "/Users/maxencecarpentier/Documents/delivery/psu/PSU_tetris_2018/cmake-build-debug/CMakeFiles/PSU_tetris_2018.dir/lib/my/my_str_contains.c.o"
+  "/Users/maxencecarpentier/Documents/delivery/psu/PSU_tetris_2018/lib/my/my_str_isalpha.c" "/Users/maxencecarpentier/Documents/delivery/psu/PSU_tetris_2018/cmake-build-debug/CMakeFiles/PSU_tetris_2018.dir/lib/my/my_str_isalpha.c.o"
+  "/Users/maxencecarpentier/Documents/delivery/psu/PSU_tetris_2018/lib/my/my_str_islower.c" "/Users/maxencecarpentier/Documents/delivery/psu/PSU_tetris_2018/cmake-build-debug/CMakeFiles/PSU_tetris_2018.dir/lib/my/my_str_islower.c.o"
+  "/Users/maxencecarpentier/Documents/delivery/psu/PSU_tetris_2018/lib/my/my_str_isnum.c" "/Users/maxencecarpentier/Documents/delivery/psu/PSU_tetris_2018/cmake-build-debug/CMakeFiles/PSU_tetris_2018.dir/lib/my/my_str_isnum.c.o"
+  "/Users/maxencecarpentier/Documents/delivery/psu/PSU_tetris_2018/lib/my/my_str_isprintable.c" "/Users/maxencecarpentier/Documents/delivery/psu/PSU_tetris_2018/cmake-build-debug/CMakeFiles/PSU_tetris_2018.dir/lib/my/my_str_isprintable.c.o"
+  "/Users/maxencecarpentier/Documents/delivery/psu/PSU_tetris_2018/lib/my/my_str_isupper.c" "/Users/maxencecarpentier/Documents/delivery/psu/PSU_tetris_2018/cmake-build-debug/CMakeFiles/PSU_tetris_2018.dir/lib/my/my_str_isupper.c.o"
+  "/Users/maxencecarpentier/Documents/delivery/psu/PSU_tetris_2018/lib/my/my_str_to_wordtab.c" "/Users/maxencecarpentier/Documents/delivery/psu/PSU_tetris_2018/cmake-build-debug/CMakeFiles/PSU_tetris_2018.dir/lib/my/my_str_to_wordtab.c.o"
+  "/Users/maxencecarpentier/Documents/delivery/psu/PSU_tetris_2018/lib/my/my_strcapitalize.c" "/Users/maxencecarpentier/Documents/delivery/psu/PSU_tetris_2018/cmake-build-debug/CMakeFiles/PSU_tetris_2018.dir/lib/my/my_strcapitalize.c.o"
+  "/Users/maxencecarpentier/Documents/delivery/psu/PSU_tetris_2018/lib/my/my_strcat.c" "/Users/maxencecarpentier/Documents/delivery/psu/PSU_tetris_2018/cmake-build-debug/CMakeFiles/PSU_tetris_2018.dir/lib/my/my_strcat.c.o"
+  "/Users/maxencecarpentier/Documents/delivery/psu/PSU_tetris_2018/lib/my/my_strcmp.c" "/Users/maxencecarpentier/Documents/delivery/psu/PSU_tetris_2018/cmake-build-debug/CMakeFiles/PSU_tetris_2018.dir/lib/my/my_strcmp.c.o"
+  "/Users/maxencecarpentier/Documents/delivery/psu/PSU_tetris_2018/lib/my/my_strcpy.c" "/Users/maxencecarpentier/Documents/delivery/psu/PSU_tetris_2018/cmake-build-debug/CMakeFiles/PSU_tetris_2018.dir/lib/my/my_strcpy.c.o"
+  "/Users/maxencecarpentier/Documents/delivery/psu/PSU_tetris_2018/lib/my/my_strdup.c" "/Users/maxencecarpentier/Documents/delivery/psu/PSU_tetris_2018/cmake-build-debug/CMakeFiles/PSU_tetris_2018.dir/lib/my/my_strdup.c.o"
+  "/Users/maxencecarpentier/Documents/delivery/psu/PSU_tetris_2018/lib/my/my_stricmp.c" "/Users/maxencecarpentier/Documents/delivery/psu/PSU_tetris_2018/cmake-build-debug/CMakeFiles/PSU_tetris_2018.dir/lib/my/my_stricmp.c.o"
+  "/Users/maxencecarpentier/Documents/delivery/psu/PSU_tetris_2018/lib/my/my_strlen.c" "/Users/maxencecarpentier/Documents/delivery/psu/PSU_tetris_2018/cmake-build-debug/CMakeFiles/PSU_tetris_2018.dir/lib/my/my_strlen.c.o"
+  "/Users/maxencecarpentier/Documents/delivery/psu/PSU_tetris_2018/lib/my/my_strlowcase.c" "/Users/maxencecarpentier/Documents/delivery/psu/PSU_tetris_2018/cmake-build-debug/CMakeFiles/PSU_tetris_2018.dir/lib/my/my_strlowcase.c.o"
+  "/Users/maxencecarpentier/Documents/delivery/psu/PSU_tetris_2018/lib/my/my_strmcat.c" "/Users/maxencecarpentier/Documents/delivery/psu/PSU_tetris_2018/cmake-build-debug/CMakeFiles/PSU_tetris_2018.dir/lib/my/my_strmcat.c.o"
+  "/Users/maxencecarpentier/Documents/delivery/psu/PSU_tetris_2018/lib/my/my_strncat.c" "/Users/maxencecarpentier/Documents/delivery/psu/PSU_tetris_2018/cmake-build-debug/CMakeFiles/PSU_tetris_2018.dir/lib/my/my_strncat.c.o"
+  "/Users/maxencecarpentier/Documents/delivery/psu/PSU_tetris_2018/lib/my/my_strncmp.c" "/Users/maxencecarpentier/Documents/delivery/psu/PSU_tetris_2018/cmake-build-debug/CMakeFiles/PSU_tetris_2018.dir/lib/my/my_strncmp.c.o"
+  "/Users/maxencecarpentier/Documents/delivery/psu/PSU_tetris_2018/lib/my/my_strncpy.c" "/Users/maxencecarpentier/Documents/delivery/psu/PSU_tetris_2018/cmake-build-debug/CMakeFiles/PSU_tetris_2018.dir/lib/my/my_strncpy.c.o"
+  "/Users/maxencecarpentier/Documents/delivery/psu/PSU_tetris_2018/lib/my/my_strsplit.c" "/Users/maxencecarpentier/Documents/delivery/psu/PSU_tetris_2018/cmake-build-debug/CMakeFiles/PSU_tetris_2018.dir/lib/my/my_strsplit.c.o"
+  "/Users/maxencecarpentier/Documents/delivery/psu/PSU_tetris_2018/lib/my/my_strstr.c" "/Users/maxencecarpentier/Documents/delivery/psu/PSU_tetris_2018/cmake-build-debug/CMakeFiles/PSU_tetris_2018.dir/lib/my/my_strstr.c.o"
+  "/Users/maxencecarpentier/Documents/delivery/psu/PSU_tetris_2018/lib/my/my_strtablen.c" "/Users/maxencecarpentier/Documents/delivery/psu/PSU_tetris_2018/cmake-build-debug/CMakeFiles/PSU_tetris_2018.dir/lib/my/my_strtablen.c.o"
+  "/Users/maxencecarpentier/Documents/delivery/psu/PSU_tetris_2018/lib/my/my_strupcase.c" "/Users/maxencecarpentier/Documents/delivery/psu/PSU_tetris_2018/cmake-build-debug/CMakeFiles/PSU_tetris_2018.dir/lib/my/my_strupcase.c.o"
+  "/Users/maxencecarpentier/Documents/delivery/psu/PSU_tetris_2018/lib/my/my_swap.c" "/Users/maxencecarpentier/Documents/delivery/psu/PSU_tetris_2018/cmake-build-debug/CMakeFiles/PSU_tetris_2018.dir/lib/my/my_swap.c.o"
+  "/Users/maxencecarpentier/Documents/delivery/psu/PSU_tetris_2018/src/action_game.c" "/Users/maxencecarpentier/Documents/delivery/psu/PSU_tetris_2018/cmake-build-debug/CMakeFiles/PSU_tetris_2018.dir/src/action_game.c.o"
+  "/Users/maxencecarpentier/Documents/delivery/psu/PSU_tetris_2018/src/check.c" "/Users/maxencecarpentier/Documents/delivery/psu/PSU_tetris_2018/cmake-build-debug/CMakeFiles/PSU_tetris_2018.dir/src/check.c.o"
+  "/Users/maxencecarpentier/Documents/delivery/psu/PSU_tetris_2018/src/check_tetrimino.c" "/Users/maxencecarpentier/Documents/delivery/psu/PSU_tetris_2018/cmake-build-debug/CMakeFiles/PSU_tetris_2018.dir/src/check_tetrimino.c.o"
+  "/Users/maxencecarpentier/Documents/delivery/psu/PSU_tetris_2018/src/debug.c" "/Users/maxencecarpentier/Documents/delivery/psu/PSU_tetris_2018/cmake-build-debug/CMakeFiles/PSU_tetris_2018.dir/src/debug.c.o"
+  "/Users/maxencecarpentier/Documents/delivery/psu/PSU_tetris_2018/src/display.c" "/Users/maxencecarpentier/Documents/delivery/psu/PSU_tetris_2018/cmake-build-debug/CMakeFiles/PSU_tetris_2018.dir/src/display.c.o"
+  "/Users/maxencecarpentier/Documents/delivery/psu/PSU_tetris_2018/src/display_utils.c" "/Users/maxencecarpentier/Documents/delivery/psu/PSU_tetris_2018/cmake-build-debug/CMakeFiles/PSU_tetris_2018.dir/src/display_utils.c.o"
+  "/Users/maxencecarpentier/Documents/delivery/psu/PSU_tetris_2018/src/drawer.c" "/Users/maxencecarpentier/Documents/delivery/psu/PSU_tetris_2018/cmake-build-debug/CMakeFiles/PSU_tetris_2018.dir/src/drawer.c.o"
+  "/Users/maxencecarpentier/Documents/delivery/psu/PSU_tetris_2018/src/game.c" "/Users/maxencecarpentier/Documents/delivery/psu/PSU_tetris_2018/cmake-build-debug/CMakeFiles/PSU_tetris_2018.dir/src/game.c.o"
+  "/Users/maxencecarpentier/Documents/delivery/psu/PSU_tetris_2018/src/game_utils.c" "/Users/maxencecarpentier/Documents/delivery/psu/PSU_tetris_2018/cmake-build-debug/CMakeFiles/PSU_tetris_2018.dir/src/game_utils.c.o"
+  "/Users/maxencecarpentier/Documents/delivery/psu/PSU_tetris_2018/src/mini_utils.c" "/Users/maxencecarpentier/Documents/delivery/psu/PSU_tetris_2018/cmake-build-debug/CMakeFiles/PSU_tetris_2018.dir/src/mini_utils.c.o"
+  "/Users/maxencecarpentier/Documents/delivery/psu/PSU_tetris_2018/src/parser.c" "/Users/maxencecarpentier/Documents/delivery/psu/PSU_tetris_2018/cmake-build-debug/CMakeFiles/PSU_tetris_2018.dir/src/parser.c.o"
+  "/Users/maxencecarpentier/Documents/delivery/psu/PSU_tetris_2018/src/parser_setter.c" "/Users/maxencecarpentier/Documents/delivery/psu/PSU_tetris_2018/cmake-build-debug/CMakeFiles/PSU_tetris_2018.dir/src/parser_setter.c.o"
+  "/Users/maxencecarpentier/Documents/delivery/psu/PSU_tetris_2018/src/parser_utils.c" "/Users/maxencecarpentier/Documents/delivery/psu/PSU_tetris_2018/cmake-build-debug/CMakeFiles/PSU_tetris_2018.dir/src/parser_utils.c.o"
+  "/Users/maxencecarpentier/Documents/delivery/psu/PSU_tetris_2018/src/pause.c" "/Users/maxencecarpentier/Documents/delivery/psu/PSU_tetris_2018/cmake-build-debug/CMakeFiles/PSU_tetris_2018.dir/src/pause.c.o"
+  "/Users/maxencecarpentier/Documents/delivery/psu/PSU_tetris_2018/src/remove_line.c" "/Users/maxencecarpentier/Documents/delivery/psu/PSU_tetris_2018/cmake-build-debug/CMakeFiles/PSU_tetris_2018.dir/src/remove_line.c.o"
+  "/Users/maxencecarpentier/Documents/delivery/psu/PSU_tetris_2018/src/score.c" "/Users/maxencecarpentier/Documents/delivery/psu/PSU_tetris_2018/cmake-build-debug/CMakeFiles/PSU_tetris_2018.dir/src/score.c.o"
+  "/Users/maxencecarpentier/Documents/delivery/psu/PSU_tetris_2018/src/score_lvl.c" "/Users/maxencecarpentier/Documents/delivery/psu/PSU_tetris_2018/cmake-build-debug/CMakeFiles/PSU_tetris_2018.dir/src/score_lvl.c.o"
+  "/Users/maxencecarpentier/Documents/delivery/psu/PSU_tetris_2018/src/set_rotated.c" "/Users/maxencecarpentier/Documents/delivery/psu/PSU_tetris_2018/cmake-build-debug/CMakeFiles/PSU_tetris_2018.dir/src/set_rotated.c.o"
+  "/Users/maxencecarpentier/Documents/delivery/psu/PSU_tetris_2018/src/setupterm.c" "/Users/maxencecarpentier/Documents/delivery/psu/PSU_tetris_2018/cmake-build-debug/CMakeFiles/PSU_tetris_2018.dir/src/setupterm.c.o"
+  "/Users/maxencecarpentier/Documents/delivery/psu/PSU_tetris_2018/src/tetrimino.c" "/Users/maxencecarpentier/Documents/delivery/psu/PSU_tetris_2018/cmake-build-debug/CMakeFiles/PSU_tetris_2018.dir/src/tetrimino.c.o"
+  "/Users/maxencecarpentier/Documents/delivery/psu/PSU_tetris_2018/src/tetris.c" "/Users/maxencecarpentier/Documents/delivery/psu/PSU_tetris_2018/cmake-build-debug/CMakeFiles/PSU_tetris_2018.dir/src/tetris.c.o"
+  "/Users/maxencecarpentier/Documents/delivery/psu/PSU_tetris_2018/src/title.c" "/Users/maxencecarpentier/Documents/delivery/psu/PSU_tetris_2018/cmake-build-debug/CMakeFiles/PSU_tetris_2018.dir/src/title.c.o"
+  "/Users/maxencecarpentier/Documents/delivery/psu/PSU_tetris_2018/src/tools.c" "/Users/maxencecarpentier/Documents/delivery/psu/PSU_tetris_2018/cmake-build-debug/CMakeFiles/PSU_tetris_2018.dir/src/tools.c.o"
+  "/Users/maxencecarpentier/Documents/delivery/psu/PSU_tetris_2018/src/utils.c" "/Users/maxencecarpentier/Documents/delivery/psu/PSU_tetris_2018/cmake-build-debug/CMakeFiles/PSU_tetris_2018.dir/src/utils.c.o"
+  )
+set(CMAKE_C_COMPILER_ID "AppleClang")
+
+# The include file search paths:
+set(CMAKE_C_TARGET_INCLUDE_PATH
+  "../include"
+  "../lib/my"
+  )
+
+# Targets to which this target links.
+set(CMAKE_TARGET_LINKED_INFO_FILES
+  )
+
+# Fortran module output directory.
+set(CMAKE_Fortran_TARGET_MODULE_DIR "")
